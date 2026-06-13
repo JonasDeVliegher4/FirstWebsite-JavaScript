@@ -2,8 +2,7 @@
 # Examenopdracht Front-end Web Development / Web Services
 
 - Student: Jonas De Vliegher
-- Studentennummer: 202292116
-- E-mailadres: jonas.devliegher@student.hogent.be
+
 ## Vereisten
 
 Ik verwacht dat volgende software reeds geïnstalleerd is:
