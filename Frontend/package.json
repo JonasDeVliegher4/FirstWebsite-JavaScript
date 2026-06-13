@@ -1,0 +1,47 @@
+{
+  "name": "jonas",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview",
+    "test": "cypress open"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "@h6s/calendar": "^2.0.1",
+    "axios": "^1.6.2",
+    "date-fns": "^3.6.0",
+    "framer-motion": "^11.3.19",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.49.2",
+    "react-icons": "^4.11.0",
+    "react-lorem-ipsum": "^1.4.10",
+    "react-router": "^6.21.0",
+    "react-router-dom": "^6.21.0",
+    "swr": "^2.2.4"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react-swc": "^3.3.2",
+    "cypress": "^13.6.1",
+    "eslint": "^8.45.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3",
+    "vite": "^4.4.5"
+  },
+  "engines": {
+    "npm": ">=9.8.0",
+    "node": ">=20.6.0",
+    "yarn": ">=1.22.0"
+  }
+}
