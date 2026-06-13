@@ -8,14 +8,6 @@ module.exports = {
     origins: ['http://localhost:5173'], 
     maxAge: 3 * 60 * 60, 
   },
-  //  database: {
-  //    client: 'mysql2',
-  //    host: 'vichogent.be',
-  //    port: 40043,
-  //    name: '292116jd',
-  //    username: '292116jd',
-  //    password: '',
-  // },
   database: {
     client: 'mysql2',
     host: 'localhost',
